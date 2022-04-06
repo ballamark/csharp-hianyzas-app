@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-hianyzas-app", "csharp-hianyzas-app\csharp-hianyzas-app.csproj", "{439BA078-C884-45B5-A238-208C68A0ABB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439BA078-C884-45B5-A238-208C68A0ABB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439BA078-C884-45B5-A238-208C68A0ABB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439BA078-C884-45B5-A238-208C68A0ABB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439BA078-C884-45B5-A238-208C68A0ABB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
